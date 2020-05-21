@@ -23,7 +23,7 @@
 - L'accesso a questo gruppo è **aperto ma in sola lettura** per il pubblico.
 - Questo gruppo vuole essere uno spazio *conviviale ed educato* in cui tutti si sentano accolti, come in una vera comunità accademica.
 - Se vuoi impegnarti a condividere contenuti di qualità in questo gruppo e diventare uno dei nostri contributori top, contattaci e parlaci un po' di te e dei tuoi interessi scientifici.
-(segue lista dei contributori top con breve indicazione dell'area tematica di expertise?)
+(segue lista di membri del gruppo che si fanno carico del processo di selezione, con magari a fianco l'area di expertise?)
 
 **Scienza network**
 
