@@ -18,8 +18,6 @@
 
 (Breve presentazione / benvenuto): Benvenuti su @scienza(comoda?), dove i nostri contributori top si ritrovano per dialogare insieme di argomenti selezionati in un ambiente un po' più intimo.
 
-
-**Scopi del gruppo**
 - L'accesso a questo gruppo è **aperto ma in sola lettura** per il pubblico.
 - Questo gruppo vuole essere uno spazio *conviviale ed educato* in cui tutti si sentano accolti, come in una vera comunità accademica.
 - Se vuoi impegnarti a condividere contenuti di qualità in questo gruppo e diventare uno dei nostri contributori top, contattaci e parlaci un po' di te e dei tuoi interessi scientifici.
