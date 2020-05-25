@@ -17,7 +17,7 @@
 
 - L'accesso a questo gruppo è **aperto ma in sola lettura** per il pubblico.
 - Questo gruppo vuole essere uno spazio *conviviale ed educato* in cui tutti si sentano accolti, come in una vera comunità di stampo accademico, con lo scopo prefissato di *puntare alla qualità* degli interventi.
-- Se vuoi impegnarti a condividere contenuti di qualità in questo gruppo e diventare uno dei nostri contributori top, registrati qui https://bit.ly/2ZDXCFs e parlaci un po' di te e dei tuoi interessi scientifici.
+- Se vuoi impegnarti a condividere contenuti di qualità in questo gruppo e diventare uno dei nostri contributori top, registrati qui https://forms.gle/ZjBWwGLdHLg2Wjbf8 e parlaci un po' di te e dei tuoi interessi scientifici.
 
 ## Scienza e Fuori Tema
 
