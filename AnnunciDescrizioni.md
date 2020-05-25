@@ -3,6 +3,13 @@
 Siediti e rilassati, la scienza con noi è comoda! 
 Hai trovato un nuovo gruppo, dove puoi condividere  le tue idee, la tua passione per la scienza e le tue conoscenze!
 
+@scienzacomoda nasce dal gruppo @scienza fondato da @andreaidini nel 2016. È un gruppo innovativo, volto a creare un network tecnico scientifico, nel quale si possono scambiare opinioni se si viene ammessi dopo richiesta di ammissione agli amministratori. 
+
+Parteciperanno alle discussioni gli utenti Telegram più esperti in materia, ma il gruppo rimane leggibile a tutti gli utenti Telegram, così che i suoi contenuti siano pubblici e fruibili da tutti.
+Quindi, non aspettare: richiedi l’ammissione qui https://bit.ly/2ZDXCFs e...accomodati! Scienza comoda ha un posto riservato anche per te!
+
+Più informazioni e una panoramica su @scienzanetwork
+
 ## Scienza Network
 
 ### Descrizione
