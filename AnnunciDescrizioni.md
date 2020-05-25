@@ -6,7 +6,7 @@ Hai trovato un nuovo gruppo, dove puoi condividere  le tue idee, la tua passione
 @scienzacomoda nasce dal gruppo @scienza fondato da @andreaidini nel 2016. È un gruppo innovativo, volto a creare un network tecnico scientifico, nel quale si possono scambiare opinioni se si viene ammessi dopo richiesta di ammissione agli amministratori. 
 
 Parteciperanno alle discussioni gli utenti Telegram più esperti in materia, ma il gruppo rimane leggibile a tutti gli utenti Telegram, così che i suoi contenuti siano pubblici e fruibili da tutti.
-Quindi, non aspettare: richiedi l’ammissione qui https://bit.ly/2ZDXCFs e...accomodati! Scienza comoda ha un posto riservato anche per te!
+Quindi, non aspettare: richiedi l’ammissione qui https://forms.gle/ZjBWwGLdHLg2Wjbf8 e...accomodati! Scienza comoda ha un posto riservato anche per te!
 
 Più informazioni e una panoramica su @scienzanetwork
 
@@ -23,7 +23,7 @@ Benvenuti nel network Scienza. Siamo una comunità di persone che amano la scien
 
 - **Canale Scienza** @canalescienza - canale per l'accentramento delle discussioni e materiali migliori.
 - **Scienza e Fisica** @scienza - Il gruppo storico, centro di discussione e di condivisione di materiale. 
-- **Scienza comoda** @scienzacomoda - il nuovo gruppo di discussione riservato agli utenti del gruppo che si sono distinti per attività e qualità dei loro interventi, e per ospiti prestigiosi di inquestionabile interesse scientifico. Il gruppo è visionabile da tutti, ma per fare richiesta di intervento [compila questo foglio](https://bit.ly/2ZDXCFs)
+- **Scienza comoda** @scienzacomoda - il nuovo gruppo di discussione riservato agli utenti del gruppo che si sono distinti per attività e qualità dei loro interventi, e per ospiti prestigiosi di inquestionabile interesse scientifico. Il gruppo è visionabile da tutti, ma per fare richiesta di intervento [compila questo foglio](https://forms.gle/ZjBWwGLdHLg2Wjbf8)
 - **Scienza e Dominio Globale** - gruppo riservato ai progetti degli utenti e alla costruzione di collaborazioni. Il gruppo sarà riservato per quegli utenti con collaborazioni continuate e/o attive per evitare di disturbare le collaborazioni. Vai su www.github.com/scienza
 - **Scienza e Fuori Tema** - per le discussioni non scientifiche, rilassate e di carattere personale da parte degli utenti del network. Il link si può richiedere dal gruppo principale.
 
