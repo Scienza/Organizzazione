@@ -40,23 +40,25 @@ In tutto il network si osservano le regole di buona educazione online. I regolam
 - Blog di Andrea Idini http://www.phme.it
 - Canale youtube di Francesco Genovese https://www.youtube.com/user/anisama1987
 
-## Canale Scienza
+## Descrizioni
+
+### Canale Scienza
 
 Canale per l'accentramento delle discussioni e materiali migliori del @scienzanetwork. Discuti assieme su @scienza. Segui: https://www.youtube.com/user/RaghnarWolf; www.phme.it; https://www.facebook.com/phmeit/
 
-## Scienza e Fisica 
+### Scienza e Fisica 
 
 La Scienza. Il centro telegram di discussione e di condivisione di materiale. Vai su @scienzanetwork per saperne di più.
 Fondato da @andreaidini
 
-## Scienza Comoda
+### Scienza Comoda
 
 Il nuovo gruppo di discussione riservato agli utenti del gruppo che si sono distinti per attività e qualità dei loro interventi, e per ospiti prestigiosi di inquestionabile interesse scientifico. Il gruppo è visionabile da tutti, ma per fare richiesta di intervento intervieni su @scienza e vai su @scienzanetwork
 
-## Scienza e Dominio Globale
+### Scienza e Dominio Globale
 
 Gruppo riservato ai progetti degli utenti e alla costruzione di collaborazioni. Il gruppo sarà riservato per quegli utenti con collaborazioni continuate e/o attive per evitare di disturbare le collaborazioni. Vai su @scienzanetwork e www.github.com/scienza
 
-## Scienza e Fuori Tema
+### Scienza e Fuori Tema
 
 Dove convogliano le energie positive di @scienzanetwork.
