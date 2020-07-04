@@ -35,3 +35,19 @@
 
 - Questo gruppo è strettamente per le collaborazioni, quindi entrate nel gruppo ed intervenite esclusivamente funzionalmente a un progetto con altri membri del gruppo.
 - Le collaborazioni possono riguardare progetti divulgativi, come siti web o video, o scientifici come programmi di calcolo. Si preferisce lo sviluppo opensource, laddove possibile, e la piattaforma di afferenza è www.github.com/scienza. Chiedi la partecipazione all'organizzazione e contribuisci.
+
+## Creatori di Scienza
+
+il nuovo gruppo riservato ai creatori di contenuti e chi lavora con la scienza. Un crocevia di opinioni e consigli per chi vuole costruire qualcosa di nuovo.
+
+## Scienza e Politica
+
+Questo e' uno spazio per discussioni di politica ed economia.
+
+#### Regole del gruppo
+
+Come sempre invito a mantenere lo spirito di @scienza: quindi discussioni
+- precise, contestualizzate e ben argomentate
+- il piu' possibile radicate in fatti e fonti
+
+Capisco che questi argomenti hanno un grado di soggettivita', ma in questo spazio non saranno tollerati attacchi personali e degenerazioni del discorso e la moderazione sara' ancora piu' intransigente che altrove.
