@@ -13,8 +13,9 @@ La prima proposta verso questo fine è la riorganizzazione del gruppo @scienza e
 - [_Scienza Network_](https://t.me/scienzanetwork): canale di descrizione e di collegamento, dove linkare gruppi e regolamenti. Al suo interno, sono collegati i seguenti canali.
   - [_Canale Scienza_](https://t.me/canalescienza): canali per l'accentramento delle discussioni e materiali migliori che funge da vetrina e ponte per le attività esterne a telegram. Il canale è gestito da tutto il team di moderazione che è invitato a proporre materiale.
   - [_Scienza e Fisica_](https://t.me/scienza): Gruppo storico che continua ad avere il ruolo di centro di discussione e di condivisione di materiale. Il criterio fondamentale rimane la disponibilità e l'interesse generale e approfondimento di argomentazione dei temi di discussione. Questo gruppo è completamente aperto al pubblico e alla discussione.
-  - [_Scienza comoda_]: gruppo di discussione riservato agli utenti del gruppo che si sono distinti per attività e qualità dei loro interventi, e per ospiti prestigiosi di inquestionabile interesse scientifico. Il gruppo tratterà esclusivamente tematiche strettamente scientifiche. Il gruppo è visionabile da tutti, ma solo utenti selezionati potranno scrivere mentre gli altri saranno mutati. Le discussioni di interesse più generale saranno poi linkate sul _Canale Scienza_ e sul gruppo principale di _Scienza e Fisica_ per avere ulteriore diffusione e possibilità di commento.
-  - [_Scienza e Dominio Globale_](@scienzadominio?): gruppo riservato ai progetti degli utenti e alla costruzione di collaborazioni. Il gruppo sarà riservato per quegli utenti con collaborazioni continuate e/o attive per evitare di disturbare le collaborazioni. **Da discutere** l'implementazione di tale moderazione.
+  - [_Scienza comoda_](https://t.me/scienzacomoda): gruppo di discussione riservato agli utenti del gruppo che si sono distinti per attività e qualità dei loro interventi, e per ospiti prestigiosi di inquestionabile interesse scientifico. Il gruppo tratterà esclusivamente tematiche strettamente scientifiche. Il gruppo è visionabile da tutti, ma solo utenti selezionati potranno scrivere mentre gli altri saranno mutati. Le discussioni di interesse più generale saranno poi linkate sul _Canale Scienza_ e sul gruppo principale di _Scienza e Fisica_ per avere ulteriore diffusione e possibilità di commento.
+  - [Scienza e Politica](): gruppo per le discussioni di politica ed economia. Sempre con lo stile argomentativo caratteristico dei nostri gruppi più seri.
+  - [_Scienza e Dominio Globale_](@scienzadominio?): gruppo per i progetti degli utenti e alla costruzione di collaborazioni. Il gruppo sarà riservato per quegli utenti con collaborazioni continuate e/o attive per evitare di disturbare le collaborazioni. **Da discutere** l'implementazione di tale moderazione.
   - [_Scienza e Fuori Tema_](@scienzaft?): gruppo di discussione non a tema scientifico, non argomentata e di carattere personale da parte degli utenti del network. **Da discutere** il grado di accettazione di utenti de iure o de facto esterni al network.
   
 ## Altre piattaforme legate direttamente al progetto
@@ -30,11 +31,15 @@ Piattaforme su cui vogliamo diffondere direttamente il progetto e su cui basiamo
   - [Andrea Idini](https://www.youtube.com/channel/UCZTtHMX7h5fBYfEIwjrCpiA)
   - [Francesco Genovese](https://www.youtube.com/user/anisama1987)
   
-## Altre piattaforme
+## Amici di @scienza
 
-Piattaforme con legami più indiretti, alcune da parte di membri storici e utenti. Aggiungete in abbondanza.
-
-- web
-  - [approaching](https://en.approaching.it): sito di Pandry
-- _YouTube_
-  - [Animal Behaviour](https://www.youtube.com/channel/UCtuinzzByLwI6QaByoGUSrQ): canale di Donato.
+**Telegram**
+- Gruppo telegram @psicologiaita, per parlare e scoprire il mondo della psicologia.
+**Web**
+- Vecchio blog di Andrea Idini, [Ph.Me](http://www.phme.it/)
+- [Come Volevasi Divulgare](https://comevolevasidivulgare.carrd.co/), Matematica
+**Youtube**
+- Canale youtube di [Francesco Genovese](https://www.youtube.com/user/anisama1987), su matematica e topologia algebrica.
+**Instagram**
+- Pagina instagram [Animal Behaviour](https://www.instagram.com/animal.behavior/), di Donato sul comportamento animale
+- Pagina instagram [Opportunity](https://instagram.com/_.opportunity._?igshid=12imdcrelk0sm), di Giuseppe, alla continua ricerca della scienza in tutto ciò che ci circonda
